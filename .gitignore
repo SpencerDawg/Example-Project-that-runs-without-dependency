@@ -1,0 +1,4 @@
+/.vscode
+/dep
+**/bin
+**/obj
