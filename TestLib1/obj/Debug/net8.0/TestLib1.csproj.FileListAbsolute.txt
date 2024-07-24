@@ -1,0 +1,11 @@
+/home/coolbugs/dev/testproject/TestLib1/bin/Debug/net8.0/TestLib1.deps.json
+/home/coolbugs/dev/testproject/TestLib1/bin/Debug/net8.0/TestLib1.dll
+/home/coolbugs/dev/testproject/TestLib1/bin/Debug/net8.0/TestLib1.pdb
+/home/coolbugs/dev/testproject/TestLib1/obj/Debug/net8.0/TestLib1.GeneratedMSBuildEditorConfig.editorconfig
+/home/coolbugs/dev/testproject/TestLib1/obj/Debug/net8.0/TestLib1.AssemblyInfoInputs.cache
+/home/coolbugs/dev/testproject/TestLib1/obj/Debug/net8.0/TestLib1.AssemblyInfo.cs
+/home/coolbugs/dev/testproject/TestLib1/obj/Debug/net8.0/TestLib1.csproj.CoreCompileInputs.cache
+/home/coolbugs/dev/testproject/TestLib1/obj/Debug/net8.0/TestLib1.dll
+/home/coolbugs/dev/testproject/TestLib1/obj/Debug/net8.0/refint/TestLib1.dll
+/home/coolbugs/dev/testproject/TestLib1/obj/Debug/net8.0/TestLib1.pdb
+/home/coolbugs/dev/testproject/TestLib1/obj/Debug/net8.0/ref/TestLib1.dll
